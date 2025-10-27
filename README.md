@@ -20,7 +20,7 @@ Welcome to my GitHub profile — dive in to know more about my research, project
 
 ## 🔧 Technical Skills  
 
-| Category | Technologies |
+| Category | Skill |
 |-----------|---------------|
 | 💻 **Programming** | Java, Python, JavaScript |
 | 🌐 **Web / Frontend** | HTML, CSS, React, Node.js |
