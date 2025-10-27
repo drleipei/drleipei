@@ -23,7 +23,7 @@ Welcome to my GitHub profile — dive in to know more about my research, project
 | Category | Technologies |
 |-----------|---------------|
 | 💻 **Programming** | Java (skilled), Python (skilled), JavaScript (skilled)|
-| 🌐 **Web / Frontend** | HTML, CSS, React (learned), Node.js (skilled) |
+| 🌐 **Web / Frontend** | HTML, CSS, React (skilled), Node.js (skilled) |
 | ☁️ **Cloud / DevOps** | AWS (learned), Azure (learned) , GCP (learned)|
 | 🗃️ **Database** | SQLite (skilled) |
 | 🎨 **Design / UI** | Figma (skilled) |
