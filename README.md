@@ -26,7 +26,7 @@ Welcome to my GitHub profile — dive in to know more about my research, project
 | 🌐 **Web / Frontend** | HTML, CSS, React, Node.js |
 | ☁️ **Cloud / DevOps** | AWS, Azure, GCP |
 | 🗃️ **Database** | SQLite, MongoDB, Supabase |
-| 🎨 **Design / UI** | Figma |
+| 🎨 **Design / UI** | Figma, Canva |
 
 ---
 
