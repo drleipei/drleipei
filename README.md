@@ -48,7 +48,7 @@ I enjoy discussing new ideas, especially in **AI, multi-agent systems, and digit
 
 ## 📫 How to Reach Me  
 
-🌐 **Website:** [www.drleipei.com](https://www.drleipei.com)  
+🌐 **Website:** [www.drleipei.com](https://drleipei.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/leiatauckland](https://www.linkedin.com/in/leiatauckland/)  
 📧 **GitHub Messages:** Drop me a message here anytime!  
 
