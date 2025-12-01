@@ -36,7 +36,7 @@ She / Her
 ---
 
 ## 😄 Fun Fact  
-I love **reading** 🍳 and **music** 🎵 — both help me relax and find creativity outside of code.  
+I love **reading**  and **music** 🎵 — both help me relax and find creativity outside of code.  
 
 ---
 
